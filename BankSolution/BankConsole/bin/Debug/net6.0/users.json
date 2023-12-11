@@ -1,0 +1,18 @@
+[
+  {
+    "Department": null,
+    "ID": 654565,
+    "Name": "jose lkusi kal",
+    "Email": "kallol@hotmail.com",
+    "Balance": 4359.6,
+    "RegisterDate": "2023-12-10T17:43:32.8190067-06:00"
+  },
+  {
+    "TaxRegime": "M",
+    "ID": 565456,
+    "Name": "kARINA lUIS",
+    "Email": "luisgg@gmail.com",
+    "Balance": 6630.0,
+    "RegisterDate": "2023-12-10T17:44:05.802774-06:00"
+  }
+]
